@@ -19,4 +19,32 @@ Start with about 60 grams of coffee for 1 liter of hot water (92 - 96° C).
 
 ## Aeropress
 
+## Espresso
 
+Measured by brew ratio in grams.
+
+Description summarized from https://au.lamarzoccohome.com/brew-ratios-around-world/
+
+| ratio range | espresso type |
+|-------------|---------------|
+| 1:1 to 1:2  | ristretto     |
+| 1:2 to 1:3  | espresso      |
+| 1:3 to 1:4  | lungo         |
+
+### 1:1 to 1:1.5 
+
+Darker roasts, low-grown coffee with chocolatey and caramel characteristics.
+
+### 1:1.5 to 1:2 
+
+"Normal" espresso today.
+Lighter roasted, higher grown coffee.
+Higher ratio brings more clarity.
+
+### 1:3
+
+Traditional italian espresso. 7 grams of coffee for 21 grams espresso.
+
+### 1:4
+
+Extended brew ratio can increase clarity. Body and viscosity decrease.
