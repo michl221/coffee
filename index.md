@@ -24,11 +24,11 @@ Start with about 60 grams of coffee for 1 liter of hot water (92 - 96° C).
 Extraction time should be around 20 to 30 seconds.
 
 Adjustment of dose and grind settings:
-https://www.home-barista.com/tips/espresso-101-how-to-adjust-dose-and-grind-setting-by-taste-t16968.html
+[home barista](https://www.home-barista.com/tips/espresso-101-how-to-adjust-dose-and-grind-setting-by-taste-t16968.html).
 
 Measured by brew ratio in grams.
 
-Description summarized from https://au.lamarzoccohome.com/brew-ratios-around-world/
+Description summarized from [lamarzoccohome.com](https://au.lamarzoccohome.com/brew-ratios-around-world/).
 
 | ratio range | espresso type |
 |-------------|---------------|
