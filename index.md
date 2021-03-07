@@ -9,6 +9,25 @@ Start with about 60 grams of coffee for 1 liter of hot water (92 - 96° C).
 
 ## Hario V60
 
+Recipe outline:
+
+| step      | total time | action                                        |
+| --------- | ---------- | --------------------------------------------- |
+| add water | 00:15      | add 2 grams of water for every gram of coffee |
+| bloom     | 00:45      | let coffee bloom, swirl                       |
+| add water | 01:15      | add about 60% of water                        |
+| add water | 01:45      | add remaining water                           |
+| wait      | 03:30      | let coffee drop                               |
+
+###  Bracamoros - Ecuador
+
+Water temperature: 96°C
+Rommelsbacher: 4
+Recipe:
+300 grams of water
+18 grams of coffee beans
+260 grams coffee
+
 ## Portafilter
 
 ## Bialetti
@@ -31,7 +50,7 @@ Measured by brew ratio in grams.
 Description summarized from [lamarzoccohome.com](https://au.lamarzoccohome.com/brew-ratios-around-world/).
 
 | ratio range | espresso type |
-|-------------|---------------|
+| ----------- | ------------- |
 | 1:1 to 1:2  | ristretto     |
 | 1:2 to 1:3  | espresso      |
 | 1:3 to 1:4  | lungo         |
