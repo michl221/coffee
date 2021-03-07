@@ -21,14 +21,13 @@ Recipe outline:
 
 ###  Bracamoros - Ecuador
 
-Water temperature: 96°C
-Rommelsbacher: 4
 Recipe:
-300 grams of water
-18 grams of coffee beans
-260 grams coffee
+- Water temperature: 96°C
+- Rommelsbacher: 4
+- 300 grams of water
+- 18 grams of coffee beans
+- 260 grams coffee
 
-## Portafilter
 
 ## Bialetti
 
